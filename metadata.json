@@ -1,0 +1,6 @@
+{
+  "name": "Conwerse — Editorial Sneaker Storefront",
+  "description": "Curated footwear and everyday streetwear destination featuring retro court silhouettes, archive runners, and seasonal brand edits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
